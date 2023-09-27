@@ -52,7 +52,7 @@ const skillsSection = {
     ),
     emoji("⚡ Data scientist with skills over core research domains: epidemiology, cardiovascular health and implementation research"),
     emoji(
-      "⚡ Causal inference reseaarch to understand impacts of interventions and policies on health "
+      "⚡ Causal inference research to understand impacts of interventions and policies on health "
     )
   ],
 
