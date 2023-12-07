@@ -198,17 +198,6 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-    {
-      image: require("./assets/images/dsacademy.jpg"),
-      projectName: "dsAcademy",
-      projectDesc: "Innovating on the intersection of global health and data science.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "www.thedsacademy.org"
-        }
-      ]
-    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
