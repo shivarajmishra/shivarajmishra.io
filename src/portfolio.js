@@ -23,7 +23,7 @@ const greeting = {
   username: "Shiva Raj Mishra",
   title: "Welcome All",
   subTitle: emoji(
-    "I am Shiva Raj Mishra. I am a global health researcher and programmer with passions in building statistical and ML applications to help redress world's many health problems. I enjoy traveling and exploring new places, cultures, and foods."
+    "I am Shiva Raj Mishra. I am a global health researcher with passions to help redress world's many health problems. I enjoy traveling and exploring new places, cultures, and foods."
   ),
   resumeLink:
     "https://au.linkedin.com/in/shivarajmishra", // Set to empty to hide the button
@@ -48,9 +48,9 @@ const skillsSection = {
   subTitle: "GLOBAL HEALTH RESEARCHER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Public health consulting using decision analytics, predictive and statistical modelling"
+      "⚡ Public health research with skills over core research domains: epidemiology, cardiovascular health and implementation research"
     ),
-    emoji("⚡ Data scientist with skills over core research domains: epidemiology, cardiovascular health and implementation research"),
+    emoji("⚡ Community based low-cost interventions to address chronic non communicable diseases in low income setting"),
     emoji(
       "⚡ Causal inference research to understand impacts of interventions and policies on health "
     )
@@ -131,8 +131,8 @@ const techStack = {
       progressPercentage: "100%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Biostatistics", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      Stack: "Epidemiology", //Insert stack or technology you have experience in
+      progressPercentage: "100%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Programming",
